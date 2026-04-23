@@ -1,8 +1,86 @@
 {
   "qq_number": "1336427127",
   "group_number": "729749207",
-  "updated_at": "2026-04-22T16:19:41.884271",
+  "updated_at": "2026-04-23T15:52:38.929523",
   "skins": [
+    {
+      "name": "草莓派对小新mimi",
+      "file": "草莓の派对小新mimi.bdi",
+      "thumb": "草莓の派对小新mimi.bdi_py_26_light_thumb.png",
+      "full": "草莓の派对小新mimi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の小新幼稚园yomi",
+      "file": "草莓の小新幼稚园yomi.bdi",
+      "thumb": "草莓の小新幼稚园yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の小新幼稚园yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓のyomi的春天",
+      "file": "草莓のyomi的春天.bdi",
+      "thumb": "草莓のyomi的春天.bdi_py_26_light_thumb.png",
+      "full": "草莓のyomi的春天.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の酸奶君yomi",
+      "file": "草莓の酸奶君yomi.bdi",
+      "thumb": "草莓の酸奶君yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の酸奶君yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "欢乐园yomi",
+      "file": "草莓の欢乐园yomi.bdi",
+      "thumb": "草莓の欢乐园yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の欢乐园yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の下雨天yomi",
+      "file": "草莓の下雨天yomi.bdi",
+      "thumb": "草莓の下雨天yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の下雨天yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の大头套yomi",
+      "file": "草莓の大头套yomi.bdi",
+      "thumb": "草莓の大头套yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の大头套yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の米菲兔yomi",
+      "file": "草莓の米菲兔yomi.bdi",
+      "thumb": "草莓の米菲兔yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の米菲兔yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の星之卡比麦当劳yomi",
+      "file": "草莓の星之卡比麦当劳yomi.bdi",
+      "thumb": "草莓の星之卡比麦当劳yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の星之卡比麦当劳yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の童年游戏yomi",
+      "file": "草莓の童年游戏yomi.bdi",
+      "thumb": "草莓の童年游戏yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の童年游戏yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の雨天mimi",
+      "file": "草莓の雨天mimi.bdi",
+      "thumb": "草莓の雨天mimi.bdi_py_26_light_thumb.png",
+      "full": "草莓の雨天mimi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の茶餐厅yomi",
+      "file": "草莓の茶餐厅yomi.bdi",
+      "thumb": "草莓の茶餐厅yomi.bdi_py_26_light_thumb.png",
+      "full": "草莓の茶餐厅yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓の肥嘟嘟左卫门小新yomi酱",
+      "file": "草莓の肥嘟嘟左卫门小新yomi酱.bdi",
+      "thumb": "草莓の肥嘟嘟左卫门小新yomi酱.bdi_py_26_light_thumb.png",
+      "full": "草莓の肥嘟嘟左卫门小新yomi酱.bdi_py_26_light.png"
+    },
     {
       "name": "欢乐园yomi",
       "file": "草莓の欢乐园yomi.bds",
@@ -92,84 +170,6 @@
       "file": "草莓の派对小新mimi.bds",
       "thumb": "草莓の派对小新mimi.bds_py_26_light_thumb.png",
       "full": "草莓の派对小新mimi.bds_py_26_light.png"
-    },
-    {
-      "name": "草莓派对小新mimi",
-      "file": "草莓の派对小新mimi.bdi",
-      "thumb": "草莓の派对小新mimi.bdi_py_26_light_thumb.png",
-      "full": "草莓の派对小新mimi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の小新幼稚园yomi",
-      "file": "草莓の小新幼稚园yomi.bdi",
-      "thumb": "草莓の小新幼稚园yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の小新幼稚园yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓のyomi的春天",
-      "file": "草莓のyomi的春天.bdi",
-      "thumb": "草莓のyomi的春天.bdi_py_26_light_thumb.png",
-      "full": "草莓のyomi的春天.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の酸奶君yomi",
-      "file": "草莓の酸奶君yomi.bdi",
-      "thumb": "草莓の酸奶君yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の酸奶君yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "欢乐园yomi",
-      "file": "草莓の欢乐园yomi.bdi",
-      "thumb": "草莓の欢乐园yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の欢乐园yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の下雨天yomi",
-      "file": "草莓の下雨天yomi.bdi",
-      "thumb": "草莓の下雨天yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の下雨天yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の大头套yomi",
-      "file": "草莓の大头套yomi.bdi",
-      "thumb": "草莓の大头套yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の大头套yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の米菲兔yomi",
-      "file": "草莓の米菲兔yomi.bdi",
-      "thumb": "草莓の米菲兔yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の米菲兔yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の星之卡比麦当劳yomi",
-      "file": "草莓の星之卡比麦当劳yomi.bdi",
-      "thumb": "草莓の星之卡比麦当劳yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の星之卡比麦当劳yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の童年游戏yomi",
-      "file": "草莓の童年游戏yomi.bdi",
-      "thumb": "草莓の童年游戏yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の童年游戏yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の雨天mimi",
-      "file": "草莓の雨天mimi.bdi",
-      "thumb": "草莓の雨天mimi.bdi_py_26_light_thumb.png",
-      "full": "草莓の雨天mimi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の茶餐厅yomi",
-      "file": "草莓の茶餐厅yomi.bdi",
-      "thumb": "草莓の茶餐厅yomi.bdi_py_26_light_thumb.png",
-      "full": "草莓の茶餐厅yomi.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓の肥嘟嘟左卫门小新yomi酱",
-      "file": "草莓の肥嘟嘟左卫门小新yomi酱.bdi",
-      "thumb": "草莓の肥嘟嘟左卫门小新yomi酱.bdi_py_26_light_thumb.png",
-      "full": "草莓の肥嘟嘟左卫门小新yomi酱.bdi_py_26_light.png"
     }
   ]
 }
