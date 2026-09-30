@@ -1,7 +1,7 @@
 {
   "qq_number": "1336427127",
   "group_number": "729749207",
-  "updated_at": "2026-09-30T10:57:06+00:00",
+  "updated_at": "2026-09-30T11:07:55+00:00",
   "skins": [
     {
       "name": "草莓派对小新mimi",
@@ -226,6 +226,12 @@
       "thumb": "班班yomi安卓.bds_py_26_light_thumb.png",
       "full": "班班yomi安卓.bds_py_26_light_thumb.png",
       "file_id": "59a5d9b9fb7aa0bcf5fd2736b022f2e0"
+    },
+    {
+      "name": "草莓の日料mimi",
+      "file": "草莓の日料mimi.bdi",
+      "thumb": "草莓の日料mimi.bdi_py_26_light_thumb.png",
+      "full": "草莓の日料mimi.bdi_py_26_light_thumb.png"
     }
   ]
 }
